@@ -1,0 +1,26 @@
+[SISTEMA DE GERENCIAMENTO DE DESEMPENHO ESCOLAR]
+
+
+PROBLEMA: Em muitas instituições de ensino, muitos professores possuem as informações sobre notas, trabalhos frequências nas aulas, espalhados em muitos lugares, fazendo 
+com que exista uma dificuldade em reconhecer quais alunos estão apresentando problemas.
+
+[EXEMPLO]: Um aluno possui média 5,2 e já faltou 20% das aulas e deixou de entregar 4 atividades. Individualmente parece apenas um dado, porém quando combinados, concluímos
+que o aluno pode estar com risco de reprovação. 
+
+[OBJETIVO DO SISTEMA]
+Desenvolver um sistema capaz de acompanhar o desempenho acadêmico dos alunos, reunindo informações de notas, faltas, e atividade, indentificando estudantes que apresentam risco de reprovação e fornecendo relatórios para os professores e coordenação.
+
+[QUEM UTILIZARIA O SISTEMA]
+
+- Professores
+- Coordenação
+- Alunos 
+
+[COMO FUNCIONARIA?]
+	
+-POFESSOR CADASTRA OS DADOS 
+-SITEMA ARMAZENA AS NOTAS, FALTAS E ATIVIDADES
+-SISTEMA ANALISA O DESEMPENHO
+-SISTEMA EXIBE OS RELATÓRIOS E METRICAS COM BASE NOS DADOS FORNECIDOS
+-SISTEMA NOTIFICA O ALUNO E OS PROFESSORES
+-A INSTITUIÇÃO PODE TOMAR ALGUMA AÇÃO 
