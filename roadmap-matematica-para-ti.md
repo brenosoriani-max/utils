@@ -14,18 +14,18 @@ Antes de entrar na matemática "de TI", vale reforçar:
 - Trigonometria básica (seno, cosseno, tangente)
 - Sistemas de numeração: decimal, **binário**, **octal**, **hexadecimal**
 
-**Canais sugeridos:** Prof. Ferretto, Matemática Rio, Curso em Vídeo (Gustavo Guanabara)
-
-> 💡 Se você já domina essa base, pode pular direto pra Fase 1.
-
----
-
 ## 🔵 Fase 1 — Lógica e Matemática Discreta
 **Duração estimada: 1-2 meses**
 **Por quê:** é a base de programação, algoritmos e ciência da computação.
 
 - Lógica proposicional (tabelas-verdade, conectivos, tautologias)
-- Álgebra booleana (portas lógicas AND, OR, NOT, XOR)
+- Álgebra booleana (portas lógicas AND, OR, NOT
+**Canais sugeridos:** Prof. Ferretto, Matemática Rio, Curso em Vídeo (Gustavo Guanabara)
+
+> 💡 Se você já domina essa base, pode pular direto pra Fase 1.
+
+---
+, XOR)
 - Teoria dos conjuntos
 - Relações e funções
 - Técnicas de contagem (permutação, combinação, arranjo)
